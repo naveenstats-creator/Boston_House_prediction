@@ -69,7 +69,7 @@ To build a regression model that accurately predicts house prices based on vario
 
 ```bash
 # Clone the repo
-git clone https://github.com/dineshtyagi1511/Boston_HousePrice_Prediction-.git
+git clone https://github.com/naveenstats-creator/Boston_HousePrice_Prediction-.git
 cd Boston_HousePrice_Prediction-
 
 # Run the Flask app
